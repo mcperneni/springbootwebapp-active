@@ -17,10 +17,10 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-		<properties>
-		<sonar.host.url>http://54.158.182.147:9000/</sonar.host.url>
-		<sonar.login>cee0a5995ef83f5a36093bc06f7fec326aa11c11</sonar.login>
-				<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+			<properties>
+		<sonar.host.url>http://54.158.182.147:9000</sonar.host.url>
+		<sonar.login>80754eb9225be2910196d1f0d33d148c4976f28d</sonar.login>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
