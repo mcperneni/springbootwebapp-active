@@ -18,8 +18,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 			<properties>
-		<sonar.host.url>http://ec2-100-26-133-25.compute-1.amazonaws.com:9000/</sonar.host.url>
-		<sonar.login>4b2eda5e9b61c99d3737e45beace2ba1590d0c6d</sonar.login>
+		<sonar.host.url>http://ec2-3-95-17-12.compute-1.amazonaws.com:9000/</sonar.host.url>
+		<sonar.login>198f73be945ac96ae3a78fc2e45faad7685bb60f</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
 	</properties>
